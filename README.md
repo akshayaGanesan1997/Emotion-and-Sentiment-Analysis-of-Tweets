@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains Python code for analyzing emotions and sentiments in tweets. The analysis includes exploratory data analysis (EDA), sentiment analysis using the RoBERTa model. The dataset used here 
+This repository contains Python code for analyzing emotions and sentiments in tweets. Utilizing a Kaggle dataset as the foundation, our exploration is propelled by the advanced RoBERTa model, a transformer-based architecture recognized for its adeptness in sentiment and emotion classification. The resultant dataset is a finely annotated compilation, providing a nuanced perspective on emotions intertwined with sentiments. Rigorous pre-processing techniques ensure data integrity, while feature extraction methods such as CountVectorizer, TF-IDF, and GloVe embeddings contribute to a comprehensive analysis.
+
+Machine learning models, including Naive Bayes, Logistic Regression, Decision Tree, Random Forest, SVM, and XGBoost, are employed alongside deep learning models like Word2Vec with LSTM, GloVe with LSTM, Word2Vec with CNN, GloVe with CNN, Word2Vec with GRU, and GloVe with GRU. Comparative evaluations based on metrics such as Accuracy, Precision, Recall, and F1 score lead to insights on model performance. This research aims to contribute valuable insights into the intricate tapestry of sentiments and emotions within the digital discourse, offering a deeper understanding of human expression in the contemporary age of social media.
 
 ## Prerequisites
 
